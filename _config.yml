@@ -1,28 +1,31 @@
+markdown: kramdown
+highlighter: rouge
+
 encoding: utf-8
 timezone: Europe/Berlin
 
 theme: jekyll-theme-midnight
 
-source: "_content"
-show_drafts: false
+source: ./_content
+show_drafts: null
 unpublished: false
 
 defaults:
   -
     scope:
-      path: "_content/_sites"
+      path: "_sites"
       type: "pages"
     values:
       layout: "default"
   -
     scope:
-      path: "_content/_posts"
+      path: "_posts"
       type: "posts"
     values:
       layout: "post"
   -
     scope:
-      path: "_content/_drafts"
+      path: "_drafts"
       type: "drafts"
     values:
       layout: "default"
