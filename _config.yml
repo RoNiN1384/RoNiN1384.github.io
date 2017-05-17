@@ -1,1 +1,40 @@
+encoding: utf-8
+timezone: Europe/Berlin
+
 theme: jekyll-theme-midnight
+
+source: "_content"
+show_drafts: false
+unpublished: false
+
+defaults:
+  -
+    scope:
+      path: "_sites"
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "_drafts"
+      type: "drafts"
+    values:
+      layout: "default"
+
+collections:
+  sites:
+    permalink: /:title/
+    output: true
+  posts:
+    permalink: /:year/:month/:title/
+    output: true
+
+exclude:
+  - .gitignore
+  - README.md
