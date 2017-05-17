@@ -10,19 +10,19 @@ unpublished: false
 defaults:
   -
     scope:
-      path: "_sites"
+      path: "_content/_sites"
       type: "pages"
     values:
       layout: "default"
   -
     scope:
-      path: "_posts"
+      path: "_content/_posts"
       type: "posts"
     values:
       layout: "post"
   -
     scope:
-      path: "_drafts"
+      path: "_content/_drafts"
       type: "drafts"
     values:
       layout: "default"
