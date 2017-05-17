@@ -6,7 +6,7 @@ timezone: Europe/Berlin
 
 theme: jekyll-theme-midnight
 
-source: ./_content
+source: "./_content"
 show_drafts: null
 unpublished: false
 
