@@ -6,7 +6,7 @@ Michael Hermeth<br />
 02826 Görlitz
 
 #### Kontakt
-E-Mail:info[at]inwasfuereinerwelt[dot]de
+E-Mail: info[at]inwasfuereinerwelt[dot]de
 
 ### Haftungs­ausschluss (Disclaimer)
 
