@@ -1,49 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  -
-
-
-
-
-
-  -
-
-
-
-
-
- -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-
 # SEO settings
 title: "In Was für einer Welt..."
 title2: "" # default: ""
@@ -102,4 +56,3 @@ navbar:
     title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
->>>>>>> 7fac181a05f2a2699f5e469f15cc145f19a7e6ea
