@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RoNiN1384/RoNiN1384.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -50,4 +49,3 @@ Thinkspace is just another minimalist Jekyll theme which is best suit for techni
 ### License
 
 [MIT](LICENSE.md)
->>>>>>> 7fac181a05f2a2699f5e469f15cc145f19a7e6ea
