@@ -52,6 +52,10 @@ Thinkspace is just another minimalist Jekyll theme which is best suit for techni
 
 ---
 
-<right>[RoNiN1384](https://ronin1384.github.io)</right>
+<style type="text/css">
+.right {text-align:right;}
+</style>
 
-<right>Das ist ein Beispieltext...</right>
+<p class="right">[RoNiN1384](https://ronin1384.github.io)</p>
+
+<p class="right">Das ist ein Beispieltext...</p>
