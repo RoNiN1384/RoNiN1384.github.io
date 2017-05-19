@@ -47,4 +47,5 @@ E-Mail: info[at]inwasfuereinerwelt[dot]de
 <p class="right" markdown="1">
 
 Quelle: [eRecht24.de](https://www.e-recht24.de/ "eRecht24: Internetrecht von Rechtsanwalt Sören Siebert")
+
 </p>
