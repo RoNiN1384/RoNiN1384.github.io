@@ -1,3 +1,49 @@
+<<<<<<< HEAD
+markdown: kramdown
+highlighter: rouge
+
+encoding: utf-8
+timezone: Europe/Berlin
+
+theme: jekyll-theme-midnight
+
+source: "./_content"
+show_drafts: null
+unpublished: false
+
+defaults:
+  -
+    scope:
+      path: "_sites"
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "_drafts"
+      type: "drafts"
+    values:
+      layout: "default"
+
+collections:
+  sites:
+    permalink: /:title/
+    output: true
+  posts:
+    permalink: /:year/:month/:title/
+    output: true
+
+exclude:
+  - .gitignore
+  - README.md
+=======
+
 # SEO settings
 title: "In Was für einer Welt..."
 title2: "" # default: ""
@@ -56,3 +102,4 @@ navbar:
     title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+>>>>>>> 7fac181a05f2a2699f5e469f15cc145f19a7e6ea
