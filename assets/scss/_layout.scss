@@ -95,9 +95,9 @@ hr {
   margin: 0 0 1em 0;
   cursor: pointer;
   letter-spacing: 0.8px;
-  font-size: 20px;
-  line-height: 28px;
-  font-weight: 300;
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: 600;
 
   span {
     font-weight: 700;
@@ -175,7 +175,7 @@ hr {
 .post-title {
   margin-top: 0;
   margin-bottom: 2em;
-  color: $dark-gray-color;
+  color: $action-color;
 }
 
 .post-link,
