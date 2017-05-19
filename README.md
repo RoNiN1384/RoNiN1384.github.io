@@ -52,11 +52,6 @@ Thinkspace is just another minimalist Jekyll theme which is best suit for techni
 
 ---
 
-Test for link in aligned p-tag:
-<DIV style="text-align: right;">
+<right>[RoNiN1384](https://ronin1384.github.io)</right>
 
-[RoNiN1384](https://ronin1384.github.io)
-
-</DIV>
-
-<p style="text-align:right;">Das ist ein Beispieltext...</p>
+<right>Das ist ein Beispieltext...</right>
