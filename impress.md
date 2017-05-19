@@ -44,5 +44,7 @@ E-Mail: info[at]inwasfuereinerwelt[dot]de
 
 <p style="text-align:justify;">Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
 
-{:.right}
+<p class="right" markdown="1">
+
 Quelle: [eRecht24.de](https://www.e-recht24.de/ "eRecht24: Internetrecht von Rechtsanwalt Sören Siebert")
+</p>
