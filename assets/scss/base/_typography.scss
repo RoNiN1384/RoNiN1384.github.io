@@ -80,7 +80,7 @@ blockquote {
   margin: $base-spacing 0;
   // color: $dark-gray-color;
   line-height: 1.8;
-  border-left: $small-spacing solid $light-gray-color;
+  border-left: $small-spacing solid $blue-color;
   // background-color: lighten($light-gray-color, 15%)
 }
 
@@ -124,9 +124,9 @@ ul,
 ol,
 dl {
     margin-top: 0;
-    margin-left: 1.2em;
+    margin-left: 2em;
     margin-bottom: 1rem;
-    list-style-type: square;
+    // list-style-type: square;
     list-style-position: outside;
     list-style-image: none;
 }

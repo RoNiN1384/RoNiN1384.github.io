@@ -4,8 +4,6 @@ title: Impressum
 permalink: /Impressum
 ---
 
-## Impressum
-
 ### Angaben gemäß § 5 TMG
 
 Michael Hermeth<br />

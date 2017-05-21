@@ -1,0 +1,38 @@
+.right {
+  text-align: right;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.center {
+  text-align: center;
+}
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.inlined {
+  display: inline;
+}
+code.inlined {
+  background-color: $light-gray-color !important;
+  color: $blue-color;
+}
+
+.footnote {
+  vertical-align: super;
+  font-size: 80%;
+}
+.footnote::before {
+  content: "[";
+}
+.footnote::after {
+  content: "]";
+}
+
+.fa-icon {
+  color: $blue-color;
+}

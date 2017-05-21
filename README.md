@@ -35,8 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-=======
-# Thinkspace v2.1
+
+---
+
+## Thinkspace v2.1
 
 Thinkspace is just another minimalist Jekyll theme which is best suit for technical writing, but not limited to. Good for personal blog type too or project-based blog. Disqus comment is included.
 
@@ -49,13 +51,3 @@ Thinkspace is just another minimalist Jekyll theme which is best suit for techni
 ### License
 
 [MIT](LICENSE.md)
-
----
-
-<style type="text/css">
-.right {text-align:right;}
-</style>
-
-<p class="right">[RoNiN1384](https://ronin1384.github.io)</p>
-
-<p class="right">Das ist ein Beispieltext...</p>
